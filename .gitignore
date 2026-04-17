@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-# 1. Security: Never upload the config file with the IBM token!
+# Security
 src/config.py
 
 # C extensions
