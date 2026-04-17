@@ -1,0 +1,12 @@
+# Quantum Computing
+qiskit>=1.0.0
+qiskit-aer
+qiskit-ibm-runtime
+
+# Image Processing & Math
+numpy
+opencv-python
+matplotlib
+
+# Terminal/VS Code Drawing Support
+pylatexenc
