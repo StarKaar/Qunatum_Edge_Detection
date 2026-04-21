@@ -15,14 +15,25 @@ A hybrid classical-quantum algorithm utilizing Quantum Image Processing to perfo
 
 ## 📂 Project Structure
 
-Quantum_Edge_Detection/
-├── src/
-│   ├── __init__.py         # Package initialization
-│   ├── config.py           # Local configuration and API token management (Git-ignored)
-│   ├── image_utils.py      # OpenCV image padding and classical state-vector math
-│   ├── quantum_engine.py   # Qiskit circuit generation and State Preparation
-│   └── post_process.py     # Probability thresholding and visual boundary mapping
-├── main.py                 # The orchestrator script
-├── requirements.txt        # Environment dependencies
-├── .gitignore              # Security and caching rules
-└── README.md               # Project documentation
+Quantum_Edge_Detection  
+
+├── src  
+
+│   ├── __init__.py         # Package initialization  
+
+│   ├── config.py           # Local configuration and API token management (Git-ignored)  
+
+│   ├── image_utils.py      # OpenCV image padding and classical state-vector math  
+
+│   ├── quantum_engine.py   # Qiskit circuit generation and State Preparation  
+
+│   └── post_process.py     # Probability thresholding and visual boundary mapping  
+
+├── main.py                 # The orchestrator script  
+
+├── requirements.txt        # Environment dependencies  
+
+├── .gitignore              # Security and caching rules  
+
+└── README.md               # Project documentation  
+
